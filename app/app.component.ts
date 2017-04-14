@@ -13,4 +13,5 @@ export class AppComponent {
 appModule.component("myApp", {
     controller: AppComponent,
     template: require("./app.component.html"),
+    styles: require("./app.component.css")
 });

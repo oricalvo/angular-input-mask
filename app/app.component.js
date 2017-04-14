@@ -16,5 +16,6 @@ exports.AppComponent = AppComponent;
 app_module_1.appModule.component("myApp", {
     controller: AppComponent,
     template: require("./app.component.html"),
+    styles: require("./app.component.css")
 });
 //# sourceMappingURL=app.component.js.map

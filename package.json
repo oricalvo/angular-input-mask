@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "docs": "bu docs"
   },
   "author": "",
   "license": "ISC",
@@ -12,12 +12,15 @@
     "@types/jquery": "^2.0.41",
     "@types/node": "^7.0.12",
     "angular": "^1.6.4",
+    "build-utils": "^1.0.33",
     "inputmask": "^3.3.5",
     "jquery": "^3.2.1",
     "systemjs": "^0.20.12",
+    "systemjs-plugin-css": "^0.1.33",
     "systemjs-plugin-text": "^0.0.9"
   },
   "devDependencies": {
+    "systemjs-builder": "^0.16.4",
     "typescript": "^2.2.2"
   }
 }
