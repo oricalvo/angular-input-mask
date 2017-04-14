@@ -1,0 +1,14 @@
+.mask {
+    margin-bottom: 1em;
+    font-size: 1.5em;
+}
+
+.mask .label {
+    display: inline-block;
+    width: 5em;
+}
+
+.mask input {
+    font-size: inherit;
+    padding: 0.25em;
+}
